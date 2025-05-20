@@ -11,12 +11,22 @@ As Large Language Models (LLMs) rapidly advance, we introduce Hunyuan-TurboS, a 
 
 Full technical details can be found in our [technical report](TechnicalReport/Hunyuan_TurboS_Technical_Report.pdf).
 
+## Human Evaluation: LMSYS Chatbot Arena
 
-## Evaluation Results
+We report the performance of our model Hunyuan-TurboS-20250416 on LMSYS Chatbot Arena, and the detailed results are as following:
 
-We present the evaluation results across diverse tasks spanning mathematics, coding, science, and general knowledge domains.
+1.  Hunyuan-TurboS-20250416 obtains an overall score of **1356**, is among the **top 7** best models in total 239 models, and outperforming leading reasoning models like DeepSeek-R1, Qwen3-235B-A22B, and o4-mini-2025-04-16.
+
+2.  Hunyuan-TurboS-20250416 achieves **top 1** in **Chinese**, **French**, **Spanish**, and **top 2** in **Korean** languages. 
+3.  Hunyuan-TurboS-20250416 achieves **top 5** in various main Arena tasks, such as **Hard Prompts**, **Creative Writing**, **Multi-Turn**, and **Longer Queries**.
 
 ![Intro_P1](TechnicalReport/Figures/table3.png)
 
+
+## Full Evaluation Results
+We present the evaluation results across diverse tasks spanning mathematics, coding, science, and general knowledge domains.
+
 ![Intro_P1](TechnicalReport/Figures/table4.png)
+
+
 
