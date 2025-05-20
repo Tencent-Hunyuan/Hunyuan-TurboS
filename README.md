@@ -24,7 +24,7 @@ We report the performance of our model Hunyuan-TurboS-20250416 on LMSYS Chatbot 
 
 
 ## Full Evaluation Results
-We present the evaluation results across diverse tasks spanning mathematics, coding, science, and general knowledge domains.
+We present the evaluation results across diverse tasks spanning math, reasoning, code, knowledge, Chinese, alignment, and instruction following domains.
 
 ![Intro_P1](TechnicalReport/Figures/table4.png)
 
