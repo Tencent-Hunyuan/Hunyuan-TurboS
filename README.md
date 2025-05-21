@@ -9,7 +9,7 @@ As Large Language Models (LLMs) rapidly advance, we introduce Hunyuan-TurboS, a 
 
 ## Technical Details
 
-Full technical details can be found in our [technical report](Hunyuan_Turbos_Report.pdf).
+Full technical details can be found in our [technical report](Hunyuan-Turbos_Report.pdf).
 
 ## Human Evaluation: LMSYS Chatbot Arena
 
