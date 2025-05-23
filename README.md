@@ -29,5 +29,16 @@ We present the evaluation results across diverse tasks spanning math, reasoning,
 
 ![Intro_P1](Figures/table4.png)
 
-
+## Citation
+```
+@misc{tencenthunyuanteam2025hunyuanturbosadvancinglargelanguage,
+      title={Hunyuan-TurboS: Advancing Large Language Models through Mamba-Transformer Synergy and Adaptive Chain-of-Thought}, 
+      author={Tencent Hunyuan Team},
+      year={2025},
+      eprint={2505.15431},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2505.15431}, 
+}
+```
 
